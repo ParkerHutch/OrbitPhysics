@@ -1,4 +1,4 @@
-# OrbitPhysics
+# orbit-physics :milky_way:
 A simulation of orbiting bodies, implemented in JavaFX.
 ![](img/demo.gif)
 

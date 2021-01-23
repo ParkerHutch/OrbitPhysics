@@ -13,7 +13,7 @@ import javafx.scene.paint.Color;
 import javafx.scene.shape.Circle;
 import javafx.stage.Stage;
 
-public class OrbitPhysicsV1 extends Application {
+public class OrbitPhysics extends Application {
 
 	// Window Dimensions
 	int WIDTH = 1000;

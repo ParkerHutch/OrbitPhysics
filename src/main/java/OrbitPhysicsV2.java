@@ -26,8 +26,8 @@ public class OrbitPhysicsV2 extends Application {
 	 */
 	
 	// Window Dimensions
-	int WIDTH = 1000;
-	int HEIGHT = 900;
+	int WIDTH = 600;
+	int HEIGHT = 600;
 
 	// Useful global variables
 	Group root; // Stores objects to be drawn on the screen

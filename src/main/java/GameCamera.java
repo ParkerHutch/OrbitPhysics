@@ -3,7 +3,6 @@ import javafx.scene.shape.Circle;
 public class GameCamera
 {
    private float xOffset, yOffset, screenWidth, screenHeight;
-   // TODO Store a zoom variable?
    public GameCamera(float screenWidth, float screenHeight, float xOffset, float yOffset)
    {
       this.xOffset = xOffset;

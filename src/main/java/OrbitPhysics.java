@@ -17,14 +17,6 @@ import javafx.stage.Stage;
 
 public class OrbitPhysics extends Application {
 
-	/* 
-	 * IDEAS
-	 * 1. Multiple windows?
-	 * 		- Would be cool to have a summary window showing data of all space objects
-	 * 2. Add background, stars
-	 * 3. Ability to increase mass of a planet while program is running to show what effect it hass on gravity
-	 */
-	
 	// Window Dimensions
 	int WIDTH = 700;
 	int HEIGHT = 700;

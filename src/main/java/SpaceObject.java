@@ -6,9 +6,7 @@ import javafx.scene.paint.Color;
 import javafx.scene.shape.Circle;
 
 /**
- * A class for storing information for objects used in the OrbitPhysicsV2 program
- * @author 808956
- *
+ * A class for storing information for objects used in the OrbitPhysics program
  */
 public class SpaceObject extends Circle {
 	
